@@ -19,7 +19,7 @@
 ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facubar&hide=css,pug&layout=compact&theme=dark)
 <!--
 **FacuBar/FacuBar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
